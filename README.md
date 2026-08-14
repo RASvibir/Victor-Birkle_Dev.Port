@@ -7,7 +7,7 @@ Hiring site for software engineering roles: embedded, systems, and full-stack. L
 ## What’s here
 
 - Interactive DSP, telemetry, and HITL logic-analyzer demos
-- Public work: [uXu app](https://rasvibir.github.io/uXu/) and [iNi website](https://rasvibir.github.io/iNi/)
+- Public shares: [uXu](https://rasvibir.github.io/uXu/) and [FieldPress](https://fieldpress-dusky.vercel.app)
 - Experience across data research, medical hardware test, field service software, and ICT
 - Education: BS Software Engineering (in progress) and AS Electronics Engineering Technology
 
