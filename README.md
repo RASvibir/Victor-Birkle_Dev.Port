@@ -13,6 +13,6 @@ Hiring site for software engineering roles: embedded, systems, and full-stack. L
 
 ## Contact
 
-- Email: [victor.birkle@students.maestrocolleg.edu](mailto:victor.birkle@students.maestrocolleg.edu)
+- Email: [victor.birkle@students.maestrocollege.edu](mailto:victor.birkle@students.maestrocollege.edu)
 - GitHub: [github.com/RASvibir](https://github.com/RASvibir)
 - LinkedIn: [linkedin.com/in/victor-birkle](https://linkedin.com/in/victor-birkle)
